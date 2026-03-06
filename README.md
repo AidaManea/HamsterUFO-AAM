@@ -1,8 +1,8 @@
 # Hamster UFO
 
-<p align="center">
-  <img src="assets/animation.gif" width="500">
-</p>
+## Gameplay
+
+![Gameplay](./assets/animation.gif)
 
 ## Introducción
 **Hamster UFO** es un juego inspirado en el *drop*. El jugador controla un pequeño **OVNI con un hámster dentro** que se mueve por la parte inferior de la pantalla.
