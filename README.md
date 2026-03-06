@@ -1,7 +1,7 @@
 # Hamster UFO
 
 ## Introducción
-**Hamster UFO ** es un juego inspirado en el *drop*. El jugador controla un pequeño **OVNI con un hámster dentro** que se mueve por la parte inferior de la pantalla.
+**Hamster UFO** es un juego inspirado en el *drop*. El jugador controla un pequeño **OVNI con un hámster dentro** que se mueve por la parte inferior de la pantalla.
 
 El objetivo del juego es recoger cristales que caen del cielo para conseguir puntos, mientras se evitan las piedras que también caen y que dañan la nave.
 Tematica: un hámster explorador viaja en su nave espacial recolectando cristales mientras esquiva las rocas espaciales.
